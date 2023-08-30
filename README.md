@@ -15,7 +15,7 @@
 
 ⚡ Fun fact , I do think we're living in a simulation.
 <br><br>
-><b>Data Analytic tools i use:</b>
-<br> Microsoft Excel
+<b>Data Analytic tools i use:</b>
+>Microsoft Excel
 <br> PowerBI
 <br> SQL (Structured Query Language)
