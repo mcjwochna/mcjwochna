@@ -17,5 +17,5 @@
 <br><br>
 <b>Data Analytic tools i use:</b>
 >Microsoft Excel
-<br> PowerBI
+<br> Microsoft Power BI Desktop
 <br> SQL (Structured Query Language)
