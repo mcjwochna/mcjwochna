@@ -1,21 +1,27 @@
-<h2>**Hi 👋, I'm Maciej Wochna**</h2>
+<h2>## **Think Different. Code Different. Be Different.**</h2>
 
+I'm **Maciej Wochna** – a lawyer who discovered that data tells the most compelling stories.
 
->🔭I'm a lawyer (public procurement senior specialist) turned Business Intelligence Developer / Data Analyst.
-<br>🔭I really enjoy to clean, transform, model and analyze data for business insights.
-<br>🔭Eager to learn about the latest and up-to-date technologies. I'm also a big time optimist.
-<br><br>🌱 I’m currently learning SQL and practice my BI skills (like DAX, data transformation and visualization).
->
-<b>🤔 I’m open for Junior Level BI Developer Role.</b>
-<br><br>
-👨‍💻 All of my projects are available at https://github.com/mcjwochna?tab=repositories
-<br>
-📫 How to reach me https://www.linkedin.com/in/wochnamaciej/
+> "The intersection of law and data is where true innovation happens."
 
+### **My Journey**
+* **Now:** Data Engineer at Onex Group, crafting digital experiences through data
+* **Before:** Senior Public Procurement Specialist who saw the power of data beyond regulations
 
-⚡ Fun fact , I do think we're living in a simulation.
-<br><br>
-<b>Data Analytic tools i use:</b>
->Microsoft Excel
-<br> Microsoft Power BI Desktop
-<br> SQL (Structured Query Language)
+### **What I Create**
+I transform raw data into business insights using:
+* Microsoft Fabric for seamless data orchestration
+* SSMS for database precision
+* Power BI for visualizations that inspire action
+* DAX & T-SQL for turning questions into answers
+
+### **The Philosophy**
+I believe data isn't just numbers – it's the foundation of decisions that shape the future. Every dataset contains a story waiting to be told.
+
+### **Connect**
+* **Projects:** [GitHub Repositories](https://github.com/mcjwochna?tab=repositories)
+* **Professional Journey:** [LinkedIn](https://www.linkedin.com/in/wochnamaciej/)
+
+> ⚡ "Reality check: I think we're living in a simulation."
+
+*Because the people who are crazy enough to think they can change the world through data, are the ones who do.*
